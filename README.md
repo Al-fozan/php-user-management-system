@@ -2,6 +2,7 @@
 
 A modern, responsive PHP web application for managing user records with a sleek dark theme interface. 
 
+![php-user-management-system](website.png)
 ## 🌟 Features
 
 - **User Management**: Add, edit, and delete user records
